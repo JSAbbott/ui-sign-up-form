@@ -1,7 +1,7 @@
 UI Design - Sign-up Form
 =======
 
-This is a simple UI design and code I made for practicing UI and HTML and CSS coding.
+This is a simple UI sign-up form design and code I made for practicing UI design and HTML and CSS coding.
 
 ---
 
