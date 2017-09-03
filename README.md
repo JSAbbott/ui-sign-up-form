@@ -17,4 +17,4 @@ License: This UI Design and Code are free to use for personal and commercial pro
 
 ---
 
-Image Credit: *stux* on [Pixabay] (https://pixabay.com/en/luggage-holiday-travel-summer-sea-1149289/)
+Image Credit: *stux* on Pixabay (https://pixabay.com/en/luggage-holiday-travel-summer-sea-1149289/)
