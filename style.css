@@ -1,0 +1,76 @@
+html {
+	min-height: 100%;
+    }
+
+body {
+    background: #1b6474; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#1b6474, #4a8a97); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#1b6474, #4a8a97); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#1b6474, #4a8a97); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#1b6474, #4a8a97); /* Standard syntax (must be last) */
+    font-family: 'Roboto', sans-serif;
+}
+
+#modal {
+    width: 500px;
+    height: 580px;
+    background-color: #ffffff;
+    margin: 0px auto;
+    margin-top: 100px;
+}
+
+#username {
+    text-align: left;
+    padding-left: 25px;
+    color: #9d9d9d;
+    font-size: 15px;
+    border: 2px solid #3b5050;
+    border-radius: 50px;
+    width: 250px;
+    height: 45px;
+    margin: 0px auto;
+    margin-top: 25px;
+}
+
+#username p {
+    font-style: italic;
+}
+
+#password {
+    text-align: left;
+    padding-left: 25px;
+    color: #9d9d9d;
+    font-size: 15px;
+    border: 2px solid #3b5050;
+    border-radius: 50px;
+    width: 250px;
+    height: 45px;
+    margin: 0px auto;
+    margin-top: 25px;
+}
+
+#password p {
+    font-style: italic;
+}
+
+#signup {
+    text-align: center;
+    color: #f3f3f3;
+    font-size: 15px;
+    line-height: 45px;
+    background-color: #5f8690;
+    border-radius: 50px;
+    width: 250px;
+    height: 45px;
+    margin: 0px auto;
+    margin-top: 50px;
+}
+
+#member {
+    text-align: center;
+    color: #9d9d9d;
+}
+
+span {
+    color: #0098ba;
+}
