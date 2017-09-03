@@ -9,7 +9,7 @@ Contributors:
 
 Jennifer S. Abbott
 
-[Olde Tinkerer Studio] (http://oldetinkererstudio.com/)
+You can find me at Olde Tinkerer Studio (http://oldetinkererstudio.com/)
 
 ---
 
